@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="./image-darkmode.png">
+ <source media="(prefers-color-scheme: light)" srcset="./image-lightmode2.png">
+ <img src="./image-lightmode2.png">
+</picture>
+
 ## About me
 - I'm Isabela Lima
 - Graduated in Linguistic and Literature Studies in Portuguese and Japanese
